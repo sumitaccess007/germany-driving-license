@@ -17,9 +17,9 @@
 | 13 | Technische Bedingungen, Personen- und Güterbeförderung | Technical Conditions, Passenger and Goods Transport |
 | 14 | Fahren mit Solokraftfahrzeugen und Anhängern, umweltschonende Fahrweise | Driving Solo Vehicles and Trailers, Eco-Friendly Driving |
 
-## 📚 My German Learning Diary (Lesson by Lesson)
+## 📚 My German Driving Theory Diary (Lesson by Lesson)
 | No. | German Title | English Title |
 |-----|-------------|--------------|
-| 1 | German Learning Diary | German Learning Diary |
+| 1 | My German Driving Theory Diary | My German Driving Theory Diary |
 
 
