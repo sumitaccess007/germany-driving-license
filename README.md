@@ -1,3 +1,25 @@
+📌 Disclaimer & Contribution
+
+This repository was created while I was learning, preparing, and practicing for the Germany driving license exam.
+
+The content here is based on my personal study notes and may not always reflect the most up-to-date rules or information. Please verify with official sources or your own materials.
+
+🤝 Contributions Welcome
+
+If you find any outdated or incorrect information, feel free to update it by opening a pull request. Contributions are highly appreciated!
+
+⭐ Support
+
+If you find this repository helpful, please consider giving it a star so that others can discover it too.
+
+⚠️ Maintenance Status
+
+This repository is currently unmaintained, as I have already passed the exam and no longer actively update it.
+
+However, feel free to fork the repository and continue improving it for others.
+
+<br><br>
+
 ## 📚 Driving Theory Lessons (German ↔ English)
 
 | No. | German Title | English Title |
