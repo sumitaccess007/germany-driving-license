@@ -1,19 +1,19 @@
 # Table of Contents
 
-- [Chapter-1](#chapter-1)
-- [Chapter-2](#chapter-2)
-- [Chapter-3](#chapter-3)
-- [Chapter-4](#chapter-4)
-- [Chapter-5](#chapter-5)
-- [Chapter-6](#chapter-6)
-- [Chapter-7](#chapter-7)
-- [Chapter-8](#chapter-8)
-- [Chapter-9](#chapter-9)
-- [Chapter-10](#chapter-10)
-- [Chapter-11](#chapter-11)
-- [Chapter-12](#chapter-12)
-- [Chapter-13](#chapter-13)
-- [Chapter-14](#chapter-14)
+- [Chapter-1: Personal requirements / Human risk factor](#chapter-1)
+- [Chapter-2: Legal Framework](#chapter-2)
+- [Chapter-3: Road traffic system and its use](#chapter-3)
+- [Chapter-4: Right of way](#chapter-4)
+- [Chapter-5: Traffic regulations and behavior](#chapter-5)
+- [Chapter-6: Traffic signs, traffic facilities and level crossings](#chapter-6)
+- [Chapter-7: Other participants in road traffic](#chapter-7)
+- [Chapter-8: Speed and Distance Thema](#chapter-8)
+- [Chapter-9: Traffic behaviour during driving maneuvers, observing the traffic](#chapter-9)
+- [Chapter-10: Stationary Traffic - Exam Critical Notes](#chapter-10)
+- [Chapter-11: Behaviour in Special Situations - Exam Critical Notes](#chapter-11)
+- [Chapter-12: Lifelong learning, consequences of violations](#chapter-12)
+- [Chapter-13: Technical conditions, persons and goods authorization](#chapter-13)
+- [Chapter-14: Driving Solo Vehicles and Trailers: Environmentally Friendly Driving Style](#chapter-14)
 
 
 ## Chapter-1
