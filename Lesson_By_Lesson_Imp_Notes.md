@@ -15,6 +15,7 @@
 - [Chapter-13: Technical conditions, persons and goods authorization](#chapter-13)
 - [Chapter-14: Driving Solo Vehicles and Trailers: Environmentally Friendly Driving Style](#chapter-14)
 
+<br><br>
 
 ## Chapter-1
 
@@ -23,6 +24,7 @@
 1. As a rule, about 0.1 per thousand blood alcohol concentration is broken down in the body every hour.
 2. LSD, which stands for lysergic acid diethylamide, is a powerful hallucinogenic (or psychedelic) drug
 
+<br><br>
 
 ## Chapter-2
 
@@ -33,6 +35,7 @@
 3. Car PTM + Trailer PTM ≤ 3,500 kg (3.5 ton)
 PTM is Permissible Total Mass
 
+<br><br>
 
 ## Chapter-3
 
@@ -44,6 +47,7 @@ PTM is Permissible Total Mass
 4. Hazard lights are to be switched on when there is a traffic jam, when there is some accident on the road, when there is a traffic jam or traffic accident inside a tunnel
 5. On autobahns you can drive faster than the range of visibility (only exception on autobahn)
 
+<br><br>
 
 ## Chapter-4
 
@@ -51,6 +55,7 @@ PTM is Permissible Total Mass
 
 1. 
 
+<br><br>
 
 ## Chapter-5
 
@@ -58,6 +63,7 @@ PTM is Permissible Total Mass
 
 1. Face of the police officer towards us, then we need to stop.
 
+<br><br>
 
 ## Chapter-6
 
@@ -65,36 +71,43 @@ PTM is Permissible Total Mass
 
 1. F
 
+<br><br>
 
 ## Chapter-7
 
 ### Andere Teilnehmer im Straßenverkehr (Other participants in road traffic)
 
+<br><br>
 
 ## Chapter-8
 
 ### Geschwindigkeit und Abstand (Speed and Distance Thema)
 
+<br><br>
 
 ## Chapter-9
 
 ### Verkehrsverhalten bei Fahrmanövern, Verkehrsbeobachtung (Traffic behaviour during driving maneuvers, observing the traffic)
 
+<br><br>
 
 ## Chapter-10
 
 ### RUHENDER VERKEHR (Stationary Traffic - Exam Critical Notes)
 
+<br><br>
 
 ## Chapter-11
 
 ### VERHALTEN IN BESONDEREN SITUATIONEN (EXAM-CRITICAL NOTES)
 
+<br><br>
 
 ## Chapter-12
 
 ### Lebenslanges Lernenm, Folgen von verstoessen (Lifelong learning, consequences of violations)
 
+<br><br>
 
 ## Chapter-13
 
@@ -128,6 +141,7 @@ PTM is Permissible Total Mass
 24. Chocks are placed below tyres, so that they do not move, or to stop from rolling.
 25. 
 
+<br><br>
 
 ## Chapter-14
 
@@ -144,3 +158,6 @@ PTM is Permissible Total Mass
 8. Catalytic converter is linked with your engine.
 9. Washing engine does not help in energy saving.
 10. 
+
+<br><br>
+
