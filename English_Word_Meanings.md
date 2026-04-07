@@ -58,7 +58,7 @@
 | “Fast oncoming traffic cutting the corner" | describes a dangerous driving situation where a vehicle approaching from the opposite direction drives across the centre line or moves into your lane while navigating a turn, usually at speed. |
 | “When a cyclist will dismount to let you pass” | it means they're getting off their bike and walking it, usually because the path is too narrow, shared with pedestrians, has a tricky obstacle (like a curb or stairs), or for safety at road crossings, showing courtesy and prioritizing pedestrian space over riding. |
 | "Wait level with the traffic light" | means you must stop your vehicle right at the stop line (or white line) on the road, directly in line with the traffic signal. |
-| starts right now | immediately now and till 800 meter, not after. |
+| <img width="79" height="38" alt="image" src="https://github.com/user-attachments/assets/61601356-211a-41e2-aeb4-a5bcf440b654" /> | starts right now immediately now and till 800 meter, not after. |
 
 ---
 
