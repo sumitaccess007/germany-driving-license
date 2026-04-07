@@ -112,18 +112,21 @@ PTM is Permissible Total Mass
 10. Electronic Stability Programme (ESP), calculate in which direction the road is going. And give indication if not done correctly. If speed is more on bends. Gives indication how your car is depending on the road scenario.
 11. Lane Keep Assist System is to keep you in the lane, it does not help you while turning or overtaking.
 12. Permissible minimum tread depth of the main tread of all your vehicles tyres – 1.60mm
+<img width="777" height="241" alt="image" src="https://github.com/user-attachments/assets/af50dd49-a7cd-431b-ab85-f46c1f589bf4" />
 13. 1217 – means a tyre is manufactured in 12th calendar week of the year 2017.
 14. Engine has nothing to take with the defective exhaust system.
 15. Air Filter has nothing to take with defective exhaust system.
 16. When load is beyond 1m towards the bvack side, do some markings
-17. Orange warning plates on a vehicle is for transporting the dangerous goods.
-18. Upto 2.5m height is a load not allowed to project over the front of the vehicle.
-19. Lateral side load if greater than 40 cm, put white light on the front and red light on the back.
-20. 1.50m is the Max height allowed above the roadway for a red light marking a load extending to the back.
-21. Lashing straps – are the straps with with we try to secure the load and tie the load.
-22. Registration Certificate Part-1, type of your license, upto which load you can drive, how many trailers, where you have registered your car etc.
-23. Chocks are placed below tyres, so that they do not move, or to stop from rolling.
-24. 
+<img width="655" height="720" alt="image" src="https://github.com/user-attachments/assets/47f617db-167c-490d-b876-528f76034bc3" />
+18. Orange warning plates on a vehicle is for transporting the dangerous goods.
+<img width="940" height="375" alt="image" src="https://github.com/user-attachments/assets/d8d944c5-2721-4419-be93-0b853b8d7f40" />
+19. Upto 2.5m height is a load not allowed to project over the front of the vehicle.
+20. Lateral side load if greater than 40 cm, put white light on the front and red light on the back.
+21. 1.50m is the Max height allowed above the roadway for a red light marking a load extending to the back.
+22. Lashing straps – are the straps with with we try to secure the load and tie the load.
+23. Registration Certificate Part-1, type of your license, upto which load you can drive, how many trailers, where you have registered your car etc.
+24. Chocks are placed below tyres, so that they do not move, or to stop from rolling.
+25. 
 
 
 ## Chapter-14
@@ -137,6 +140,7 @@ PTM is Permissible Total Mass
 5. At STOP sign we only stop for a moment but do not switch off the engine.
 6. While filling the fuel, brim is actually above the maximum allowed levels.
 7. Environmental areas –
+<img width="940" height="404" alt="image" src="https://github.com/user-attachments/assets/3c763363-ae59-4330-ac58-c0d16eab6747" />
 8. Catalytic converter is linked with your engine.
 9. Washing engine does not help in energy saving.
 10. 
