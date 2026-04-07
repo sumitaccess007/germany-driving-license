@@ -1,14 +1,12 @@
 # 🚗 Germany Driving License Notes
 
 ## 📑 Table of Contents
-- [📘 Basic Word Meanings](#-basic-word-meanings)
-- [🛣️ Road & Infrastructure Terms](#️-road--infrastructure-terms)
-- [🚘 Driving Actions & Behavior](#-driving-actions--behavior)
-- [⚠️ Driving Situations & Rules](#️-driving-situations--rules)
-- [🛑 Vehicle & Technical Concepts](#-vehicle--technical-concepts)
+- [📘 Basic Word Meanings in English Explained](#-basic-word-meanings-in-english-explained)
 - [❄️ Weather Conditions](#️-weather-conditions)
 
 ---
+
+## Basic Word Meanings in English Explained
 
 ## 📘 Basic Word Meanings
 
