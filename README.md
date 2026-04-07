@@ -16,3 +16,10 @@
 | 12 | Lebenslanges Lernen, Folgen von Verstößen | Lifelong Learning, Consequences of Violations |
 | 13 | Technische Bedingungen, Personen- und Güterbeförderung | Technical Conditions, Passenger and Goods Transport |
 | 14 | Fahren mit Solokraftfahrzeugen und Anhängern, umweltschonende Fahrweise | Driving Solo Vehicles and Trailers, Eco-Friendly Driving |
+
+## 📚 My German Learning Diary (Lesson by Lesson)
+| No. | German Title | English Title |
+|-----|-------------|--------------|
+| 1 | German Learning Diary | German Learning Diary |
+
+
