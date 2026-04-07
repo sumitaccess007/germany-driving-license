@@ -16,12 +16,16 @@
 | 12 | Lebenslanges Lernen, Folgen von Verstößen | Lifelong Learning, Consequences of Violations |
 | 13 | Technische Bedingungen, Personen- und Güterbeförderung | Technical Conditions, Passenger and Goods Transport |
 | 14 | Fahren mit Solokraftfahrzeugen und Anhängern, umweltschonende Fahrweise | Driving Solo Vehicles and Trailers, Eco-Friendly Driving |
-<p></p>
+
+<br><br>
+
 ## 📚 My German Driving Theory Diary (Lesson by Lesson)
 | No. | German Title | English Title |
 |-----|-------------|--------------|
 | 1 | My German Driving Theory Diary | [My German Driving Theory Diary](https://github.com/sumitaccess007/germany-driving-license/blob/main/Lesson_By_Lesson_Imp_Notes.md) |
-<p></p>
+
+<br><br>
+
 ## 📚 Frequently Wrong Questions (Lesson by Lesson)
 | No. | Chapter Name                              | File Link |
 |------|------------------------------------------|----------|
@@ -40,4 +44,4 @@
 | 13   | Technical Conditions (Goods)            | [CH-13_Technical_Conditions_Goods](./Lesson_by_Lesson_Notes/CH-13_Technical_Conditions_Goods.md) |
 | 14   | Environmental Driving                  | [CH-14_Environmental_Driving](./Lesson_by_Lesson_Notes/CH-14_Environmental_Driving.md) |
 
-
+<br><br>
