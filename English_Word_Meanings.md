@@ -8,7 +8,7 @@
 
 ## Basic Word Meanings in English Explained
 
-## 📘 Basic Word Meanings
+### 📘 Basic Word Meanings
 
 | Term | Meaning |
 |------|--------|
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛣️ Road & Infrastructure Terms
+### 🛣️ Road & Infrastructure Terms
 
 | Term | Meaning |
 |------|--------|
@@ -45,7 +45,7 @@
 
 ---
 
-## 🚘 Driving Actions & Behavior
+### 🚘 Driving Actions & Behavior
 
 | Term | Meaning |
 |------|--------|
@@ -68,7 +68,7 @@
 
 ---
 
-## 🛑 Vehicle & Technical Concepts
+### 🛑 Vehicle & Technical Concepts
 
 | Term | Meaning |
 |------|--------|
@@ -77,7 +77,7 @@
 
 ---
 
-## ❄️ Weather Conditions
+### ❄️ Weather Conditions
 
 | Term | Meaning |
 |------|--------|
