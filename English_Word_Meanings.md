@@ -6,6 +6,8 @@
 
 ---
 
+<br><br>
+
 ## Basic Word Meanings in English Explained
 
 ### 📘 Basic Word Meanings
@@ -30,6 +32,8 @@
 
 ---
 
+<br><br>
+
 ### 🛣️ Road & Infrastructure Terms
 
 | Term | Meaning |
@@ -45,6 +49,8 @@
 
 ---
 
+<br><br>
+
 ### 🚘 Driving Actions & Behavior
 
 | Term | Meaning |
@@ -57,6 +63,8 @@
 
 ---
 
+<br><br>
+
 ## ⚠️ Driving Situations & Rules
 
 | Term / Sentence | Meaning |
@@ -68,6 +76,8 @@
 
 ---
 
+<br><br>
+
 ### 🛑 Vehicle & Technical Concepts
 
 | Term | Meaning |
@@ -77,8 +87,13 @@
 
 ---
 
+<br><br>
+
 ### ❄️ Weather Conditions
 
 | Term | Meaning |
 |------|--------|
 | Packed snow / black ice | Packed snow is snow compressed by traffic or weather into a hard, icy layer, often bumpy and white, while black ice is a thin, transparent, glassy sheet of ice that forms on pavement as moisture freezes, making it nearly invisible and extremely slippery because it blends with the dark road surface. |
+
+<br><br>
+
