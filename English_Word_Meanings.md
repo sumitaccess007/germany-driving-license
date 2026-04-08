@@ -87,6 +87,7 @@
 | Anti Slip Regulation (ASR) device | avoid wheel slipping, even on wet roads / when setting off, locks the wheel when braking. |
 | Advance Driver Assistance System (ADAS) | like Adoptive Cruise Control System, Independent Braking System, Lane Keeping Feature, Parking help, Camera View, Radar System, Lane Departure Warning System are all part of ADAS. |
 | Electronic Stability Programme (ESP) | calculate in which direction the road is going. And give indication if not done correctly. If speed is more on bends. Gives indication how your car is depending on the road scenario. |
+| A brake servo unit (or brake booster) | is a safety component in a vehicle's braking system that amplifies the force applied to the brake pedal, making it easier for the driver to stop the car.
 
 ---
 
