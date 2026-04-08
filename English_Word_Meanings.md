@@ -84,6 +84,9 @@
 |------|--------|
 | Stalling | means that engine stops working suddenly without you intending it to happen. |
 | An Anti-lock Braking System (ABS) | is a vehicle safety feature that prevents wheels from locking up during heavy braking. ABS prevents skidding or locking, prevents the wheels locking. Braking System and Braking effect can be achieved quickly by applying pressure on the brakes. Never locks the wheels even when braking. Streeing capability is retained.|
+| Anti Slip Regulation (ASR) device | avoid wheel slipping, even on wet roads / when setting off, locks the wheel when braking. |
+| Advance Driver Assistance System (ADAS) | like Adoptive Cruise Control System, Independent Braking System, Lane Keeping Feature, Parking help, Camera View, Radar System, Lane Departure Warning System are all part of ADAS. |
+| Electronic Stability Programme (ESP) | calculate in which direction the road is going. And give indication if not done correctly. If speed is more on bends. Gives indication how your car is depending on the road scenario. |
 
 ---
 
