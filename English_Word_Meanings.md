@@ -83,7 +83,7 @@
 | Term | Meaning |
 |------|--------|
 | Stalling | means that engine stops working suddenly without you intending it to happen. |
-| An Anti-lock Braking System (ABS) | is a vehicle safety feature that prevents wheels from locking up during heavy braking |
+| An Anti-lock Braking System (ABS) | is a vehicle safety feature that prevents wheels from locking up during heavy braking. ABS prevents skidding or locking, prevents the wheels locking. Braking System and Braking effect can be achieved quickly by applying pressure on the brakes. Never locks the wheels even when braking. Streeing capability is retained.|
 
 ---
 
