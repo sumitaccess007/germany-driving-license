@@ -67,3 +67,21 @@ However, feel free to fork the repository and continue improving it for others.
 | 14   | Environmental Driving                  | [CH-14_Environmental_Driving](./Lesson_by_Lesson_Notes/CH-14_Environmental_Driving.md) |
 
 <br><br>
+
+## ⭐ Other Important Links
+| No. | Topic Name                             | Website Link |
+|------|------------------------------------------|----------|
+| 1. | Parking in Germany |https://routetogermany.com/drivingingermany/parking#no-parking-signs-germany |
+| 2. | Lane Change Assist (LCA) | https://caradas.com/lane-change-assist/ |
+| 3. | Parking Rules in Germany | https://garages-near-me.com/knowledge-base/germany/parking-essentials/parking-rules |
+| 4. | Tyre Regulations | https://routetogermany.com/drivingingermany/tires-regulations |
+| 5. | Road Markings in Germany | https://routetogermany.com/drivingingermany/road-markings |
+| 6. | List of All Road Sings in Germany | https://routetogermany.com/drivingingermany/road-signs |
+| 7. | Important Road Signs in Germany | https://routetogermany.com/drivingingermany/road-signs-germany |
+| 8. | Right of Way Rules in Germany | https://routetogermany.com/drivingingermany/right-of-way |
+| 9. | Environmental Zones in Germany | https://routetogermany.com/drivingingermany/environmental-zone-germany |
+| 10. | Road Accidents in Geramny | https://routetogermany.com/drivingingermany/accident |
+
+
+<br><br>
+
