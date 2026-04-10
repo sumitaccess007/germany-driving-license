@@ -29,6 +29,12 @@
 | Relapse | means to become ill and start behaving badly again |
 | Legible | means which can be easily read |
 | Foresight | means the ability to judge correctly what is going to happen in the future and plan your actions based on this knowledge. |
+| Perforation | means a small hole or row of small holes punched in a sheet of paper, e.g. of postage stamps, so that a part can be torn off easily |
+| Inhibits | means to reduce or makes less effective |
+| Cornering | Driving through a curve/bend |
+| Route planning abroad | Planning your trip in another country |
+| Veer | Move suddenly to one side |
+
 
 ---
 
@@ -87,7 +93,13 @@
 | Anti Slip Regulation (ASR) device | avoid wheel slipping, even on wet roads / when setting off, locks the wheel when braking. |
 | Advance Driver Assistance System (ADAS) | like Adoptive Cruise Control System, Independent Braking System, Lane Keeping Feature, Parking help, Camera View, Radar System, Lane Departure Warning System are all part of ADAS. |
 | Electronic Stability Programme (ESP) | calculate in which direction the road is going. And give indication if not done correctly. If speed is more on bends. Gives indication how your car is depending on the road scenario. |
-| A brake servo unit (or brake booster) | is a safety component in a vehicle's braking system that amplifies the force applied to the brake pedal, making it easier for the driver to stop the car.
+| A brake servo unit (or brake booster) | is a safety component in a vehicle's braking system that amplifies the force applied to the brake pedal, making it easier for the driver to stop the car. |
+| Exhaust system | Pipes that carry gases out of the engine |
+|Chassis settings | means (wheel alignment), Adjustment of wheels (angle, direction) |
+| Hub | Center part where the wheel is attached |
+| Steering wheel mounting | How the steering wheel is attached to the steering column |
+| Recuperation (in electric vehicles) | Energy recovery while braking (battery gets charged) |
+ 
 
 ---
 
