@@ -128,9 +128,11 @@ PTM is Permissible Total Mass
 <img width="777" height="241" alt="image" src="https://github.com/user-attachments/assets/af50dd49-a7cd-431b-ab85-f46c1f589bf4" />
 
 13. 1217 – means a tyre is manufactured in 12th calendar week of the year 2017.
-14. Engine has nothing to take with the defective exhaust system.
-15. Air Filter has nothing to take with defective exhaust system.
-16. When load is beyond 1m towards the bvack side, do some markings
+![tyre.JPG.png](Lesson_by_Lesson_Notes/images/other_images/tyre.JPG)
+
+15. Engine has nothing to take with the defective exhaust system.
+16. Air Filter has nothing to take with defective exhaust system.
+17. When load is beyond 1m towards the bvack side, do some markings
 <img width="655" height="720" alt="image" src="https://github.com/user-attachments/assets/47f617db-167c-490d-b876-528f76034bc3" />
 
 18. Orange warning plates on a vehicle is for transporting the dangerous goods.
