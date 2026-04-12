@@ -126,13 +126,16 @@ PTM is Permissible Total Mass
 11. Lane Keep Assist System is to keep you in the lane, it does not help you while turning or overtaking.
 12. Permissible minimum tread depth of the main tread of all your vehicles tyres – 1.60mm
 <img width="777" height="241" alt="image" src="https://github.com/user-attachments/assets/af50dd49-a7cd-431b-ab85-f46c1f589bf4" />
+
 13. 1217 – means a tyre is manufactured in 12th calendar week of the year 2017.
 14. Engine has nothing to take with the defective exhaust system.
 15. Air Filter has nothing to take with defective exhaust system.
 16. When load is beyond 1m towards the bvack side, do some markings
 <img width="655" height="720" alt="image" src="https://github.com/user-attachments/assets/47f617db-167c-490d-b876-528f76034bc3" />
+
 18. Orange warning plates on a vehicle is for transporting the dangerous goods.
 <img width="940" height="375" alt="image" src="https://github.com/user-attachments/assets/d8d944c5-2721-4419-be93-0b853b8d7f40" />
+
 19. Upto 2.5m height is a load not allowed to project over the front of the vehicle.
 20. Lateral side load if greater than 40 cm, put white light on the front and red light on the back.
 21. 1.50m is the Max height allowed above the roadway for a red light marking a load extending to the back.
@@ -155,6 +158,7 @@ PTM is Permissible Total Mass
 6. While filling the fuel, brim is actually above the maximum allowed levels.
 7. Environmental areas –
 <img width="940" height="404" alt="image" src="https://github.com/user-attachments/assets/3c763363-ae59-4330-ac58-c0d16eab6747" />
+
 8. Catalytic converter is linked with your engine.
 9. Washing engine does not help in energy saving.
 10. 
