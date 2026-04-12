@@ -139,10 +139,12 @@ PTM is Permissible Total Mass
 19. Upto 2.5m height is a load not allowed to project over the front of the vehicle.
 20. Lateral side load if greater than 40 cm, put white light on the front and red light on the back.
 21. 1.50m is the Max height allowed above the roadway for a red light marking a load extending to the back.
-22. Lashing straps – are the straps with with we try to secure the load and tie the load.
-23. Registration Certificate Part-1, type of your license, upto which load you can drive, how many trailers, where you have registered your car etc.
-24. Chocks are placed below tyres, so that they do not move, or to stop from rolling.
-25. 
+![image-1.JPG.png](Lesson_by_Lesson_Notes/images/other_images/image-1.JPG)
+
+23. Lashing straps – are the straps with with we try to secure the load and tie the load.
+24. Registration Certificate Part-1, type of your license, upto which load you can drive, how many trailers, where you have registered your car etc.
+25. Chocks are placed below tyres, so that they do not move, or to stop from rolling.
+26. 
 
 <br><br>
 
