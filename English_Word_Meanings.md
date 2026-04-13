@@ -38,6 +38,7 @@
 | alighting from the bus | Getting off a bus |
 | Endangered | means Put in danger / risk of accident |
 | Impeded | locked / slowed down / disturbed |
+| above all on | especially on / most importantly on / more than anything else |
 
 
 ---
@@ -70,6 +71,9 @@
 | Pull up | means When a car or someone driving a car pulls up, the driver stops the car, often for a short time |
 | Flat out speed | means going as fast as possible, at maximum effort, or to your absolute limit |
 | Veer sideways | means to change direction to the side, often suddenly or unexpectedly, shifting from a forward path to a lateral one |
+| Wheel-spray | water spray thrown up by tyres |
+| cambered roadway | Higher in the middle and Slopes down to the sides |
+| above all on | especially on / most importantly on / more than anything else |
 
 ---
 
