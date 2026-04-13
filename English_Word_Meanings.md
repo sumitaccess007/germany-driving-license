@@ -35,6 +35,7 @@
 | Route planning abroad | Planning your trip in another country |
 | Veer | Move suddenly to one side |
 | Spectacular colour | very bright / unusual / eye-catching color |
+| alighting from the bus | Getting off a bus |
 
 
 ---
