@@ -76,6 +76,7 @@ PTM is Permissible Total Mass
 ## Chapter-7
 
 ### Andere Teilnehmer im Straßenverkehr (Other participants in road traffic)
+1. If a public bus or school bus has its hazard lights on and is still moving, you must not overtake it.
 
 <br><br>
 
