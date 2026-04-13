@@ -34,6 +34,7 @@
 | Cornering | Driving through a curve/bend |
 | Route planning abroad | Planning your trip in another country |
 | Veer | Move suddenly to one side |
+| Spectacular colour | very bright / unusual / eye-catching color |
 
 
 ---
