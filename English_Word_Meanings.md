@@ -36,6 +36,8 @@
 | Veer | Move suddenly to one side |
 | Spectacular colour | very bright / unusual / eye-catching color |
 | alighting from the bus | Getting off a bus |
+| Endangered | means Put in danger / risk of accident |
+| Impeded | locked / slowed down / disturbed |
 
 
 ---
