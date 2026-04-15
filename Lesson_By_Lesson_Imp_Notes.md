@@ -62,6 +62,59 @@ PTM is Permissible Total Mass
 ### Verkehrsregelungen Und Verhalten (Traffic regulations and behavior)
 
 1. Face of the police officer towards us, then we need to stop.
+2. The right side strip may be used in the following cases: 1. for holding and parking, 2. for slow moving vehicles such as mopeds or agricultural tractors and machinery.
+3. Slow-moving vehicles such as tractors, mopeds must use the hard shoulder. Other vehicles that go faster than 45km/h need to remain on the road
+4. Agricultural tractors - Very slow (often 25–40 km/h)
+5. Mopeds - Very low speed (~25–45 km/h)
+6. Small-engine motorcycles - even if engine is small, they can usually go much faster than mopeds. Often capable of: 60–100+ km/h
+7. When crossing a priority road, you must keep in mind: 1. the width of the priority road, 2. the distance and speed of oncoming traffic, 3. the weather conditions.
+8. According to the German Road Traffic Regulations (Straßenverkehrsordnung - StVO), motorways may only be used by vehicles with a maximum design speed of more than 60 km / h.
+9. The braking distance of your vehicle depends on the tires, the brake system and the condition of the road.
+10. 50 km/h is the legally prescribed maximum speed limit within cities (Build-up areas).
+11. Human ability to estimate distance traveled per second is Reaction Distance.
+12. The braking distance is the distance you travel from the start of braking until your vehicle stands.
+13. When you are driving on a wide road on which oncoming traffic can pass by you, unobstructed. You must be able to stop within the distance you can see in case obstacles enter the carriageway.
+14. As a rule of thumb, you should keep at least a distance of half of your speed in meters. In poor visibility or road conditions, the distance should be increased.
+15. Outside built-up areas, the minimum distance to be maintained for pedestrians, cyclists and personal transporters is 2 metres.
+16. In built-up areas, the minimum distance for pedestrians, cyclists and personal transporters is 1.5 metres.
+17. In one-way streets, however, there is no general rule of no overtaking. You can overtake.
+18. You may only overtake a vehicle in front of you if you are significantly (at least 20 km/h) faster. Also, when overtaking: Do not exceed the maximum speed limit.
+19. Trams must in general be overtaken on the right. If vehicles are parked here, you have to drive behind the tram. If the rails are too far to the right, trams may also be overtaken on the left.
+20. When overtaking you must always keep sufficient distance to the road users next to you. This must be particularly large with motorcycle and bicycle riders.
+21. You may overtake the bus on the bus lane.
+22. To allow faster vehicles to overtake you on a country road, you can dodge on a suitable side stripe, a lay by or in a rest stop. It is also possible to slow down or even stop at a suitable location.
+23. If there is an obstacle on a road or if a multi-lane road narrows, then zip merging applies to all vehicles traveling in the same direction. Drive to the end of your lane. Do not change lanes earlier to prevent tailback. Wait here until a vehicle on the adjacent lane lets you enter. Only move over just before the road starts to narrow by following the zipper feed-in method
+24. In a tunnel with oncoming traffic, you must behave as follows: Orient yourself on the right side of the road and avoid looking directly into the light of oncoming traffic. You must not drive over or turn on the road edge marking. If necessary, increase the safety distance, drive anticipatory and pay attention to restriction on overtaking.
+25. If a lane ends, vehicles should only merge into the lane right before the beginning of the constriction.
+26. You are not allowed to stop on the roadway in a roundabout
+27. If you want to turn left, prepare the turn in the following order: 1. look, 2. indicate, 3. arrange.
+28. In front of the traffic sign "Stop! Give way!", colloquially also called stop sign, you must always stop. Mostly there is a stop line. The wheels must be stationary for at least a short amount of time.
+29. In a one-way street, you don't need to fear oncoming traffic. Indicate in time. Then merge left and stay on the left lane until you reach the turn for left turn.
+30. When there is a traffic congention do not drive into crossroads, junctions, pedestrial crossing, level crossing. However you can enter into Bus Stops.
+31. The red arrow in your direction indicates that priority is given to oncoming vehicles.
+32. Stopping Prohibited -
+- On level crossings
+- At taxi ranks
+- On narrow sections of the road and at blind spots
+- On the roadway, if there is a sufficiently wide hard shoulder on the right
+- Between lane dividers when direction arrows are marked on the roadway
+- On pedestrian crossings and up to 5 m before pedestrian crossings.
+- Stopping is allowed on manhole covers, but not parking.
+33. Parking Prohibited -
+- On priority roads outside built-up areas. However you should use Use side strips or parking bays outside build-up areas.
+- At the edge of the roadway if this would prevent others from using designated parking areas
+- Parking is not allowed on manhole covers
+- Before sunken kerbstones
+34. A "stop" is when a vehicle stops for less than 3 minutes for reasons unrelated to traffic without the driver getting out of the vehicle. If the driver stops for a longer time and/or leaves his vehicle, this is called parking.
+35. You may only park in the direction of travel on the right-hand side of the road.
+36. The only exception are one-way streets, as they are only used in one direction of travel, you can park on both sides in the direction of travel.
+37. If there are rails on the right, you must also park on the left, but always observe parking restrictions.
+38. If parking is forbidden on the right, It does NOT automatically mean you can park on the left.
+39. In case of a breakdown in a tunnel, Switch on the hazard light on your car and switch off the engine due to the high risk of poisoning by exhaust gases in the tunnel.
+40. If possible, switch on the side lights when it is dark
+ at a level crossing when the barriers are closed. parking light is sufficient.
+41. 
+
 
 <br><br>
 
@@ -69,7 +122,7 @@ PTM is Permissible Total Mass
 
 ### Verkehrszeichen, Verkehrseinrichtungen und Bahnübergänge (Traffic signs, traffic facilities and level crossings)
 
-1. F
+1. The "Children" danger sign on the right makes it clear that increased attention and a special degree of caution are necessary at this point. In addition to children, adults can of course also suddenly step onto the roadway. 
 
 <br><br>
 
@@ -79,7 +132,30 @@ PTM is Permissible Total Mass
 1. If a public bus or school bus has its hazard lights on and is still moving, you must not overtake it.
 2. You may pass the stationary bus at walking speed provided you are sure that passengers are not endangered.
 3. When the hazard warning lights of a bus are switched on at a bus stop, all vehicles in both directions must pass the bus at walking speed.
-4. 
+4. If a bus has not switched on its hazard warning lights, you do not have to slow your vehicle down to walking speed. But be especially attentive in the situation!
+5. You may carefully pass a stopping tram at walking speed - but only if this does not endanger or obstruct any passengers.
+6. On wet roads, the adhesion between the tyre and the road is poorer due to the water film. As a result, the braking distance is considerably longer.
+7. If there is oil on the road, notify the fire brigade so that the oil can be bound.
+8. While driving you can safely check whether the road is icy by carefully applying the brakes at very low speed.
+9. If you are dazzled by a high beam or incorrectly adjusted headlights, do not look into the cone of light but to the right edge of the road.
+10. On narrow roads, to avoid danger, as a vehicle driver you must always keep a sufficient safety distance of at least 1.50 metres when overtaking cyclists.
+11. The use of the hazard warning lights is subject to strict rules. You may only switch on the hazard warning lights to secure your broken-down vehicle or to indicate a traffic jam or a school bus. A school bus with its hazard warning lights on may only be overtaken at walking speed.
+12. E-bikes are just as quiet as classic bikes and are therefore often perceived late. However, they often achieve significantly higher speeds than bicycles without an engine.
+13. 2 wide trailers can be attached to the farm tractor.
+14. You must not switch on the fog lamp in the tunnel.
+15. If there is a traffic jam in a tunnel, stop and turn off the engine. By keeping a safe distance of about five metres, you reduce the risk of poisoning, preserve a manoeuvring option and allow rescue vehicles to pass. Only leave your vehicle after an appropriate loudspeaker announcement.
+16. If the deer is not yet on the road, you should under no circumstances perform emergency braking. This would unnecessarily endanger other road users and force them to unpredictable reactions. 
+17. If a fire in your vehicle prevents you from leaving a tunnel: Park the vehicle unlocked with the engine switched off and the ignition key remaining in the lock. Alarm the tunnel monitoring center. Take the next escape route on foot.
+18. You can see that the animal is about to run on the road. Horns may help stop it. In addition, you should initiate emergency braking to reduce a potential collision. Do not dodge! This rather leads to accidents with personal injury than a collision with an animal.
+19. The body breaks down only about 0.1 permille alcohol per hour.
+20. Driving under the influence of drugs can mean the loss of your driver's license.
+21. If he is a drug addict, the person must live drug-free for a full year before he can get back his driving license. Proof of this is given by the Appraisal Body (Ger. Begutachterstelle für Fahreignung (BfF)) in form of a report.
+22. Driving a vehicle under the influence of drugs such as hashish, cocaine or heroin may result in: withdrawal of the license, a fine and/or imprisonment. Imprisonment may amount to up to five years if other persons were endangered. In order to get your driving license back, you have to undergo a medical-psychological assessment (MPA).
+23. During the probation period or before the age of 21, a limit of 0.0 permille applies to you before each journey and while driving a motor vehicle: an absolute alcohol ban.
+24. During the probationary period you must not drink any alcohol if you want to drive a motor vehicle. In general, you should stick to 0.0 permille when participating in traffic.
+25. Cannabis and its breakdown products are traceable in your urine for a period between ten days and three months after consumption. 
+
+
 
 
 <br><br>

@@ -39,6 +39,10 @@
 | Endangered | means Put in danger / risk of accident |
 | Impeded | locked / slowed down / disturbed |
 | above all on | especially on / most importantly on / more than anything else |
+| Obscured | not clearly visible / blocked / hidden |
+| yield | give / let someone go |
+| chippings | small pieces of stone (gravel) |
+| Downing alcoholic drinks | Drinking an alcoholic drink very quickly in one go |
 
 
 
