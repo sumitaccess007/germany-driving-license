@@ -78,6 +78,35 @@
 <br><br>
 ![image40.JPG](images/chapter-5/image40.JPG)
 <br><br>
-
+![image41.JPG](images/chapter-5/image41.JPG)
+<br><br>
+![image42.JPG](images/chapter-5/image42.JPG)
+<br><br>
+![image43.JPG](images/chapter-5/image43.JPG)
+<br><br>
+![image44.JPG](images/chapter-5/image44.JPG)
+<br><br>
+![image45.JPG](images/chapter-5/image45.JPG)
+<br><br>
+![image46.JPG](images/chapter-5/image46.JPG)
+<br><br>
+![image47.JPG](images/chapter-5/image47.JPG)
+<br><br>
+![image48.JPG](images/chapter-5/image48.JPG)
+<br><br>
+![image49.JPG](images/chapter-5/image49.JPG)
+<br><br>
+![image50.JPG](images/chapter-5/image50.JPG)
+<br><br>
+![image51.JPG](images/chapter-5/image51.JPG)
+<br><br>
+![image52.JPG](images/chapter-5/image52.JPG)
+<br><br>
+![image53.JPG](images/chapter-5/image53.JPG)
+<br><br>
+![image54.JPG](images/chapter-5/image54.JPG)
+<br><br>
+![image55.JPG](images/chapter-5/image55.JPG)
+<br><br>
 
 

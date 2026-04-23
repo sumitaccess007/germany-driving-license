@@ -43,6 +43,9 @@
 | yield | give / let someone go |
 | chippings | small pieces of stone (gravel) |
 | Downing alcoholic drinks | Drinking an alcoholic drink very quickly in one go |
+| unduly alarmed | unnecessarily frightened |
+
+
 
 
 

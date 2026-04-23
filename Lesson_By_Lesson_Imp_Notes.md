@@ -53,7 +53,12 @@ PTM is Permissible Total Mass
 
 ### Vorfahrt (Right of way)
 
-1. 
+1. The traffic sign “Give priority to oncoming traffic” shows with the red arrow that you must give priority to oncoming traffic.
+2. Sign 276 No passing zone sign, ![image13.svg](Lesson_by_Lesson_Notes/images/chapter-4/image13.svg) the overtaking of two-line vehicles is not allowed. One-line transport (motorcycles) can still be overtaken.
+3. The traffic sign "pedestrian area" prohibits motor vehicles entering this area, even walking speed is prohibited
+4. Electric scooters are becoming more common, they ride on the cycle path, so watch out for scooter riders as well along with cycles.
+5. On priority roads outside of built-up areas, you may: 1. wait at the right side of the road; 2. park on a hard shoulder. On the other hand, parking on the road is prohibited. Parking vehicles constitute a hindrance and/or danger to flowing traffic, since vehicles are traveling much faster here than within the closed local area. Since a hard shoulder is not considered a lane, you may use it for parking. If there is a possibility to dodge on a hard shoulder, you should also use this for waiting shortly.
+6. The Orange diversion arrow points out to you as a car driver that you are on a traffic jam-prone section of the motorway and points out an alternative route. But you are not obliged to follow this.
 
 <br><br>
 
@@ -113,7 +118,17 @@ PTM is Permissible Total Mass
 39. In case of a breakdown in a tunnel, Switch on the hazard light on your car and switch off the engine due to the high risk of poisoning by exhaust gases in the tunnel.
 40. If possible, switch on the side lights when it is dark
  at a level crossing when the barriers are closed. parking light is sufficient.
-41. 
+41. Maximum distance a load may project backwards beyond the rear reflectors without a projection marker being necessary is 1 meters.
+42. If you carry cargo that protrudes more than 1 m from the end of the vehicle, it must be marked accordingly by a red light and a red reflector.
+43. An orange warning sign indicates vehicles that are loaded with dangerous goods as so-called hazardous materials transportation.
+44. At the front, the load may protrude only above a height of 2.5 m by a maximum of 50 cm.
+45. Responsible for the roadworthy condition of a vehicle are both the owner of the vehicle as well as the driver.
+46. You must not overtake the cyclist before and at a pedestrian crossing.
+47. In no case may a vehicle be overtaken before and on pedestrian crossings.
+48. When traffic is halting, you must not stop on a pedestrian crossing. Here, the same rule of intersections and T-junctions applies, which must also be kept clear.
+49. In Germany emergency numbers for the police are 110 as well as 112 for the accident ambulance and the fire department.
+50. You should exchange the most important information with the other party involved in the accident in order to be able to get in touch. You should also mutually record the course of the accident. Document the damage with photos. This enables the insurance company to better assess and evaluate the damage.
+
 
 
 <br><br>
