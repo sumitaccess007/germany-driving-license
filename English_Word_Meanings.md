@@ -44,6 +44,7 @@
 | chippings | small pieces of stone (gravel) |
 | Downing alcoholic drinks | Drinking an alcoholic drink very quickly in one go |
 | unduly alarmed | unnecessarily frightened |
+| souped-up | modified or tuned to make it more powerful or louder than normal |
 
 
 
@@ -109,12 +110,15 @@
 | Anti Slip Regulation (ASR) device | avoid wheel slipping, even on wet roads / when setting off, locks the wheel when braking. |
 | Advance Driver Assistance System (ADAS) | like Adoptive Cruise Control System, Independent Braking System, Lane Keeping Feature, Parking help, Camera View, Radar System, Lane Departure Warning System are all part of ADAS. |
 | Electronic Stability Programme (ESP) | calculate in which direction the road is going. And give indication if not done correctly. If speed is more on bends. Gives indication how your car is depending on the road scenario. |
+| Electronic Stability Programme (ESP) | The Electronic Stability Program (ESP) is always active. If the ESP light flashes, it shows you that it is actively intervening in the driving behaviour of the vehicle and stabilising it. Therefore, the speed should be reduced. If the ESP symbol is permanently lit, it is inactive or defective and needs to be checked. |
+| Adaptive Cruise Control system (ASC) | The adaptive cruise control system (ASC) independently estimates the distance and speed of the vehicle in front. This can be limited in bad weather, e.g. due to snow and dirt. Therefore, you must regulate the distance and speed yourself. |
 | A brake servo unit (or brake booster) | is a safety component in a vehicle's braking system that amplifies the force applied to the brake pedal, making it easier for the driver to stop the car. |
 | Exhaust system | Pipes that carry gases out of the engine |
 |Chassis settings | means (wheel alignment), Adjustment of wheels (angle, direction) |
 | Hub | Center part where the wheel is attached |
 | Steering wheel mounting | How the steering wheel is attached to the steering column |
 | Recuperation (in electric vehicles) | Energy recovery while braking (battery gets charged) |
+| Visor  | the transparent front shield on a helmet that covers your face/eyes while riding motorcycle. |
  
 
 ---

@@ -128,6 +128,7 @@ PTM is Permissible Total Mass
 48. When traffic is halting, you must not stop on a pedestrian crossing. Here, the same rule of intersections and T-junctions applies, which must also be kept clear.
 49. In Germany emergency numbers for the police are 110 as well as 112 for the accident ambulance and the fire department.
 50. You should exchange the most important information with the other party involved in the accident in order to be able to get in touch. You should also mutually record the course of the accident. Document the damage with photos. This enables the insurance company to better assess and evaluate the damage.
+51. The adaptive cruise control system (ASC) independently estimates the distance and speed of the vehicle in front. This can be limited in bad weather, e.g. due to snow and dirt. Therefore, you must regulate the distance and speed yourself.
 
 
 
@@ -244,6 +245,7 @@ PTM is Permissible Total Mass
 25. Chocks are placed below tyres, so that they do not move, or to stop from rolling.
 26. 
 
+
 <br><br>
 
 ## Chapter-14
@@ -261,7 +263,16 @@ PTM is Permissible Total Mass
 
 8. Catalytic converter is linked with your engine.
 9. Washing engine does not help in energy saving.
-10. 
+10. Low gear (e.g., 1st, 2nd, 3rd) → engine spins faster → high RPM (high engine speed) → higher fuel consumption.
+11. High gear (e.g., 4th, 5th, 6th) → engine spins slower → low RPM (low engine speed) → lower fuel consumption
+12. Driving in high revolutions per minute (RPM) is an inefficient or harmful driving habits. Because high RPM wastes fuel, increase engine wear, creates more noise and pollution.
+13. Too low air pressure in the tire as well leads to increased fuel consumption. The effort required to keep the tire running is significantly higher than when the tire pressure has been set correctly.
+14. When refuelling, do not fill up to the brim because some air must remain in the tank for the fuel to expand.
+15. All-terrain tyres have deep-tread tires which causes the noise pollution.
+16. Low-friction oils are synthetic oils with improved flow behavior, the so-called viscosity. This lubricates the engine faster and better and reduces friction. This also leads to a noticeable saving of fuel.
+17. Revving up all gears - accelerating hard / increasing engine speed in every gear.
+18. High speeds require more power due to the increased air resistance. As a result, the fuel consumption increases.
+19. The strong smoke is a sign that the engine or the fuel system has a defect. You should visit a workshop that checks the damage.
 
 <br><br>
 
