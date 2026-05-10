@@ -119,6 +119,7 @@
 | Steering wheel mounting | How the steering wheel is attached to the steering column |
 | Recuperation (in electric vehicles) | Energy recovery while braking (battery gets charged) |
 | Visor  | the transparent front shield on a helmet that covers your face/eyes while riding motorcycle. |
+| differential lock ("diff lock") | is a 4x4 or off-road vehicle mechanism that forces both wheels on an axle to spin at the exact same speed, bypassing the normal differential function. |
  
 
 ---
