@@ -50,5 +50,5 @@
 <br><br>
 ![image26.png](images/chapter-11/image26.png)
 <br><br>
-![image27.JPG](images/chapter-11/image27.JPG)
+![image27.png](images/chapter-11/image27.png)
 <br><br>
