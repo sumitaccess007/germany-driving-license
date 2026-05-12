@@ -63,3 +63,22 @@
 | What happens if a learner driver ignores the official order to attend the seminar? | Driving licence may be withdrawn |
 
 <br><br>
+
+## German Driving Theory Notes
+
+| Dashboard Symbol / Situation | Color on Dashboard | Meaning / Action Required |
+|---|---|---|
+| Rear fog lamp is ON | Amber / Yellow | Rear fog lights are switched on |
+| Main beam (high beam) is ON | Blue | High beam headlights are active |
+| Brake control light illuminates while driving | Red | Check the braking system of the car immediately |
+| Indicator light flashes faster than usual | Green (flashing) | A bulb/indicator light may be defective |
+| Airbag control light stays ON constantly | Red / Amber | Possible airbag system fault — visit a garage/workshop |
+
+<br><br>
+
+## Dashboard Light Colors Reference
+
+![Dashboard Light Colors](./Lesson_by_Lesson_Notes/images/other_images/LLight_Colors.JPG)
+
+<br><br>
+
